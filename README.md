@@ -204,6 +204,8 @@ For more information about the telecine hardware:
 - [MovieStuff 8mm HD Setup](https://www.moviestuff.tv/8mm_hd_setup.html)
 - [VelocityHD Instructions](https://www.moviestuff.tv/velocity_hd_instructions.html)
 
+Created for Clark Nikolai by Khubchand Bansal.
+
 ## License
 
 MIT
